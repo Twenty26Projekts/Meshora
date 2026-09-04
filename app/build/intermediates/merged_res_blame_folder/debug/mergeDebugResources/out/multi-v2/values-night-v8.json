@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bitchat.android.app-mergeDebugResources-64:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/nsshekhawat/.gradle/caches/9.4.1/transforms/0ca67fd9abf306bb3c0e8dfbe43e0365/transformed/core-splashscreen-1.0.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "85",
+                        "endOffsets": "136"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "217",
+                        "endColumns": "85",
+                        "endOffsets": "298"
+                    }
+                },
+                {
+                    "source": "/Users/nsshekhawat/Downloads/Meshora_Name_Editor_REBRANDED_FIXED/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "8,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "432,102",
+                        "endLines": "18,6",
+                        "endColumns": "12,12",
+                        "endOffsets": "1210,426"
+                    },
+                    "to": {
+                        "startLines": "12,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "935,1718",
+                        "endLines": "22,27",
+                        "endColumns": "12,12",
+                        "endOffsets": "1713,2042"
+                    }
+                },
+                {
+                    "source": "/Users/nsshekhawat/.gradle/caches/9.4.1/transforms/20233611e31fd1f56e414dbe97ab800c/transformed/appcompat-1.7.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,28",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "303,373,457,541,637,739,841,2047",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "368,452,536,632,734,836,930,2131"
+                    }
+                },
+                {
+                    "source": "/Users/nsshekhawat/Downloads/Meshora_Name_Editor_REBRANDED_FIXED/app/src/main/res/values-night/colors.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "113,55",
+                        "endColumns": "56,57",
+                        "endOffsets": "165,108"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "102,159",
+                        "endColumns": "56,57",
+                        "endOffsets": "154,212"
+                    }
+                }
+            ]
+        }
+    ]
+}

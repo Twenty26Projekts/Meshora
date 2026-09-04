@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="location_notes_title">
+    <item quantity="one">#%1$s ± 1 • %2$d குறிப்பு</item>
+    <item quantity="other">#%1$s ± 1 • %2$d குறிப்புகள்</item>
+  </plurals>
+    <plurals name="notification_and_more">
+    <item quantity="one">மற்றும் %d மேலும்</item>
+    <item quantity="other">மற்றும் %d மேலும்</item>
+  </plurals>
+    <plurals name="people_count">
+    <item quantity="one">1 நபர்</item>
+    <item quantity="other">%d நபர்கள்</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"முகப்பிற்குச் செல்லும்"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"மேலே செல்லும்"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"மேலும் விருப்பங்கள்"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"முடிந்தது"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"அனைத்தையும் காட்டு"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"ஆப்ஸைத் தேர்வுசெய்க"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ஆஃப்"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ஆன்"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt மற்றும்"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl மற்றும்"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function மற்றும்"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta மற்றும்"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift மற்றும்"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym மற்றும்"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu மற்றும்"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"தேடுக…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"வினவலை அழிக்கும்"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"தேடல் வினவல்"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"தேடும்"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"வினவலைச் சமர்ப்பிக்கும்"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"குரல் தேடல்"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"இதில் பகிர்"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> மூலம் பகிர்"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"சுருக்கும்"</string>
+    <string name="about_app_language">பயன்பாட்டு மொழி</string>
+    <string name="about_background_desc">ஆப் மூடப்பட்டாலும் மெஷை செயலில் வைத்திரு (முன்னணி சேவை)</string>
+    <string name="about_background_title">பின்னணியில் இயக்கு</string>
+    <string name="about_dark">இருள்</string>
+    <string name="about_debug_settings">பிழைதிருத்த அமைப்புகள்</string>
+    <string name="about_e2e_desc">தனிப்பட்ட செய்திகள் என்க்ரிப்ட் செய்யப்பட்டவை. சேனல் செய்திகள் பொதுவானவை.</string>
+    <string name="about_e2e_title">எண்ட்-டு-எண்ட் என்க்ரிப்ஷன்</string>
+    <string name="about_emergency_title">அவசர தரவு நீக்கம்</string>
+    <string name="about_footer">ஓபன் சோர்ஸ் • தனியுரிமை முதலில் • பரவலாக்கப்பட்டது</string>
+    <string name="about_language">மொழி</string>
+    <string name="about_last">கடைசி: %1$s</string>
+    <string name="about_light">ஒளி</string>
+    <string name="about_network">நெட்வொர்க்</string>
+    <string name="about_offline_mesh_desc">இணையம் அல்லது சர்வர்கள் இல்லாமல் Bluetooth LE வழியாக நேரடியாக தொடர்பு கொள்ளுங்கள். வரம்பை நீட்டிக்க செய்திகள் அருகிலுள்ள சாதனங்கள் வழியாக அனுப்பப்படுகின்றன.</string>
+    <string name="about_offline_mesh_title">ஆஃப்லைன் மெஷ் அரட்டை</string>
+    <string name="about_online_geohash_desc">ஜியோஹாஷ் அடிப்படையிலான சேனல்களைப் பயன்படுத்தி உங்கள் பகுதியிலுள்ள மக்களுடன் இணையுங்கள். பொது இணைய ரிலேகளைப் பயன்படுத்தி மெஷை நீட்டிக்கவும்.</string>
+    <string name="about_online_geohash_title">ஆன்லைன் ஜியோஹாஷ் சேனல்கள்</string>
+    <string name="about_pow">ப்ரூஃப் ஆஃப் வொர்க்</string>
+    <string name="about_pow_desc_extreme">தீவிரம் - கணிசமான கணக்கீடு தேவை</string>
+    <string name="about_pow_desc_high">அதிகம் - வலுவான ஸ்பேம் பாதுகாப்பு</string>
+    <string name="about_pow_desc_low">குறைவு - அடிப்படை ஸ்பேம் பாதுகாப்பு</string>
+    <string name="about_pow_desc_medium">நடுத்தரம் - நல்ல ஸ்பேம் பாதுகாப்பு</string>
+    <string name="about_pow_desc_none">ப்ரூஃப் ஆஃப் வொர்க் தேவையில்லை</string>
+    <string name="about_pow_desc_very_high">மிக அதிகம் - தாமதங்களை ஏற்படுத்தலாம்</string>
+    <string name="about_pow_desc_very_low">மிகக் குறைவு - குறைந்தபட்ச ஸ்பேம் பாதுகாப்பு</string>
+    <string name="about_pow_difficulty">சிரமம்: %1$d பிட்ஸ் (~%2$s)</string>
+    <string name="about_pow_difficulty_attempts">சிரமம் %1$d க்கு ~%2$s ஹாஷ் முயற்சிகள் தேவை</string>
+    <string name="about_pow_off">pow ஆஃப்</string>
+    <string name="about_pow_on">pow ஆன்</string>
+    <string name="about_pow_tip">ஸ்பேம் தடுப்புக்காக ஜியோஹாஷ் செய்திகளுக்கு ப்ரூஃப் ஆஃப் வொர்க் சேர்க்கவும்.</string>
+    <string name="about_select_language">மொழியைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="about_system">சிஸ்டம்</string>
+    <string name="about_system_default">கணினி இயல்புநிலை</string>
+    <string name="about_tagline">எண்ட்-டு-எண்ட் என்க்ரிப்ஷனுடன் கூடிய பரவலாக்கப்பட்ட மெஷ் செய்தியிடல்</string>
+    <string name="about_tor_off">tor ஆஃப்</string>
+    <string name="about_tor_on">tor ஆன்</string>
+    <string name="about_tor_route">மேம்பட்ட தனியுரிமைக்காக இணையத்தை Tor வழியாக அனுப்பவும்.</string>
+    <string name="about_tor_status">tor நிலை: %1$s, பூட்ஸ்ட்ராப் %2$d%%</string>
+    <string name="action_block_subtitle">இந்த பயனரிடமிருந்து அனைத்து செய்திகளையும் தடு</string>
+    <string name="action_block_title">%1$s ஐ தடு</string>
+    <string name="action_copy_message_subtitle">இந்த செய்தியை கிளிப்போர்டுக்கு நகலெடு</string>
+    <string name="action_copy_message_title">செய்தியை நகலெடு</string>
+    <string name="action_hug_subtitle">ஒரு நட்பான கட்டியணைப்பு செய்தியை அனுப்பு</string>
+    <string name="action_hug_title">%1$s ஐ கட்டியணை</string>
+    <string name="action_private_message_subtitle">ஒரு தனிப்பட்ட செய்தியை அனுப்பு</string>
+    <string name="action_private_message_title">%1$s க்கு செய்தி அனுப்பு</string>
+    <string name="action_slap_subtitle">ஒரு விளையாட்டான அறை செய்தியை அனுப்பு</string>
+    <string name="action_slap_title">%1$s ஐ அறை</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"தன்னிரப்பி"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"தன்னிரப்பி"</string>
+    <string name="app_name">Meshora</string>
+    <string name="at_nickname">@%1$s</string>
+    <string name="at_symbol">@</string>
+    <string name="back">பின்</string>
+    <string name="background_location_explanation">ஆப் திறக்கப்படாதபோதும் அருகிலுள்ள சாதனங்களை ஸ்கேன் செய்ய Meshora க்கு பின்னணி இருப்பிடத்தை Android பரிந்துரைக்கிறது. இது ரீபூட்டிற்குப் பிறகும் மெஷை உயிருடன் வைத்திருக்கும்.</string>
+    <string name="background_location_needs_bullets">- ஆப் மூடப்பட்டிருக்கும்போது அருகிலுள்ள சாதனங்களை ஸ்கேன் செய்ய\n- ரீபூட்டிற்குப் பிறகு மீண்டும் இணைக்க\n- மெஷை பின்னணியில் இயங்க வைக்க</string>
+    <string name="background_location_needs_for">Meshora பின்னணி இருப்பிடத்தைப் பயன்படுத்துவது:</string>
+    <string name="background_location_privacy_note">உங்கள் இருப்பிடத்தை நாங்கள் ஒருபோதும் சேகரிக்கவோ சேமிக்கவோ மாட்டோம். உங்கள் தனியுரிமை பாதுகாப்பானது.</string>
+    <string name="background_location_required_subtitle">விருப்பத்தேர்வு, மெஷ் நம்பகத்தன்மையை மேம்படுத்துகிறது</string>
+    <string name="background_location_required_title">பின்னணி இருப்பிடம் பரிந்துரைக்கப்படுகிறது</string>
+    <string name="background_location_settings_tip">அமைப்புகள் திறக்கும்போது, "எப்போதும் அனுமதிக்கவும்" என்பதைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="battery_benefits_short">• நம்பகமான செய்தி வழங்கல்\n• மெஷ் இணைப்பைப் பராமரிக்கிறது\n• இணைப்பு துண்டிப்புகளைத் தடுக்கிறது</string>
+    <string name="battery_optimization_benefits">• நம்பகமான செய்தி வழங்கலை உறுதி செய்கிறது\n• மெஷ் நெட்வொர்க் இணைப்பைப் பராமரிக்கிறது\n• பின்னணி செய்தி அனுப்புதலை அனுமதிக்கிறது\n• இணைப்பு துண்டிப்புகளைத் தடுக்கிறது</string>
+    <string name="battery_optimization_check_again">மீண்டும் சரிபார்க்கவும்</string>
+    <string name="battery_optimization_checking">பேட்டரி ஆப்டிமைசேஷனைச் சரிபார்க்கிறது</string>
+    <string name="battery_optimization_continue">தொடரவும்</string>
+    <string name="battery_optimization_detected">பேட்டரி ஆப்டிமைசேஷன் கண்டறியப்பட்டது</string>
+    <string name="battery_optimization_detected_title">பேட்டரி ஆப்டிமைசேஷன் கண்டறியப்பட்டது</string>
+    <string name="battery_optimization_disable_button">பேட்டரி ஆப்டிமைசேஷனை முடக்கு</string>
+    <string name="battery_optimization_disabled">பேட்டரி ஆப்டிமைசேஷன் முடக்கப்பட்டது</string>
+    <string name="battery_optimization_disabled_title">பேட்டரி ஆப்டிமைசேஷன் முடக்கப்பட்டது</string>
+    <string name="battery_optimization_enabled_title">பேட்டரி ஆப்டிமைசேஷன் இயக்கப்பட்டது</string>
+    <string name="battery_optimization_explanation">அருகிலுள்ள சாதனங்களுடன் மெஷ் நெட்வொர்க் இணைப்புகளைப் பராமரிக்க Meshora பின்னணியில் இயங்குகிறது. பேட்டரி ஆப்டிமைசேஷன் இந்த இணைப்புகளை தடுக்கலாம், இதனால் செய்திகள் தாமதமாகலாம் அல்லது தவறவிடப்படலாம்.\n\nபேட்டரி ஆப்டிமைசேஷனை முடக்குவது நம்பகமான பியர்-டு-பியர் செய்தி அனுப்புதலை உறுதி செய்கிறது.</string>
+    <string name="battery_optimization_explanation_short">மெஷ் இணைப்புகளைப் பராமரிக்க Meshora பின்னணியில் இயங்க வேண்டும். பேட்டரி ஆப்டிமைசேஷன் இந்த இணைப்புகளை தடுக்கலாம்.</string>
+    <string name="battery_optimization_not_required">பேட்டரி ஆப்டிமைசேஷன் தேவையில்லை</string>
+    <string name="battery_optimization_not_supported_explanation">உங்கள் சாதனத்திற்கு பேட்டரி ஆப்டிமைசேஷன் அமைப்புகள் தேவையில்லை. Meshora சாதாரணமாக இயங்கும்.</string>
+    <string name="battery_optimization_not_supported_message">உங்கள் சாதனத்திற்கு பேட்டரி ஆப்டிமைசேஷன் அமைப்புகள் தேவையில்லை. Meshora சாதாரணமாக இயங்கும்.</string>
+    <string name="battery_optimization_note">குறிப்பு: Android அமைப்புகள் > ஆப்ஸ் > Meshora > பேட்டரி என்பதில் இந்த அமைப்பை பின்னர் மாற்றலாம்</string>
+    <string name="battery_optimization_skip">இப்போதைக்கு தவிர்</string>
+    <string name="battery_optimization_success_message">Meshora பின்னணியில் நம்பகமாக இயங்க முடியும்</string>
+    <string name="battery_optimization_why_disable">பேட்டரி ஆப்டிமைசேஷனை ஏன் முடக்க வேண்டும்?</string>
+    <string name="benefits_of_disabling">முடக்குவதன் நன்மைகள்</string>
+    <string name="bluetooth_needs_bullets">• அருகிலுள்ள பயனர்களைக் கண்டறிய\n• மெஷ் நெட்வொர்க் இணைப்புகளை உருவாக்க\n• செய்திகளை அனுப்ப மற்றும் பெற\n• இணையம் அல்லது சர்வர்கள் இல்லாமல் செயல்பட</string>
+    <string name="bluetooth_needs_for">Meshora க்கு Bluetooth தேவைப்படுவது:</string>
+    <string name="bluetooth_not_supported">Bluetooth ஆதரிக்கப்படவில்லை</string>
+    <string name="bluetooth_recommended">Bluetooth Recommended</string>
+    <string name="bluetooth_required">Bluetooth தேவை</string>
+    <string name="bluetooth_unsupported_explanation">Meshora செயல்பட தேவையான Bluetooth Low Energy (BLE) ஐ இந்த சாதனம் ஆதரிக்காது.\n\nஇணையம் இல்லாமல் மெஷ் நெட்வொர்க்குகளை உருவாக்கவும் அருகிலுள்ள சாதனங்களுடன் தொடர்பு கொள்ளவும் Meshora க்கு BLE தேவை.</string>
+    <string name="bookmarked">புக்மார்க் செய்யப்பட்டது</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"பதிலளி"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"வீடியோ"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"நிராகரி"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"துண்டி"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"உள்வரும் அழைப்பு"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"செயலில் இருக்கும் அழைப்பு"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"உள்வரும் அழைப்பை மதிப்பாய்வு செய்கிறது"</string>
+    <string name="cancel">ரத்து செய்</string>
+    <string name="cancel_lower">ரத்து செய்</string>
+    <string name="cd_add_bookmark">புக்மார்க் சேர்</string>
+    <string name="cd_add_favorite">பிடித்தவைகளில் சேர்</string>
+    <string name="cd_battery_optimization">பேட்டரி ஆப்டிமைசேஷன்</string>
+    <string name="cd_benefits">நன்மைகள்</string>
+    <string name="cd_bluetooth">Bluetooth</string>
+    <string name="cd_cancel">ரத்து செய்</string>
+    <string name="cd_checking_battery_optimization">பேட்டரி ஆப்டிமைசேஷனைச் சரிபார்க்கிறது</string>
+    <string name="cd_close">மூடு</string>
+    <string name="cd_connected_peers">இணைக்கப்பட்ட பியர்ஸ்</string>
+    <string name="cd_decrease_precision">துல்லியத்தைக் குறை</string>
+    <string name="cd_encrypted">எண்ட்-டு-எண்ட் என்க்ரிப்ட் செய்யப்பட்டது</string>
+    <string name="cd_end_to_end_encryption">எண்ட்-டு-எண்ட் என்க்ரிப்ஷன்</string>
+    <string name="cd_error">பிழை</string>
+    <string name="cd_file">கோப்பு</string>
+    <string name="cd_geohash_participants">ஜியோஹாஷ் பங்கேற்பாளர்கள்</string>
+    <string name="cd_handshake_failed">ஹேண்ட்ஷேக் தோல்வியடைந்தது</string>
+    <string name="cd_handshake_in_progress">ஹேண்ட்ஷேக் நடைபெறுகிறது</string>
+    <string name="cd_image">படம்</string>
+    <string name="cd_image_index_of">படம் %1$d / %2$d</string>
+    <string name="cd_increase_precision">துல்லியத்தை அதிகரி</string>
+    <string name="cd_leave_channel">சேனலை விட்டு வெளியேறு</string>
+    <string name="cd_link">இணைப்பு</string>
+    <string name="cd_location_notes">இருப்பிட குறிப்புகள்</string>
+    <string name="cd_location_services">இருப்பிட சேவைகள்</string>
+    <string name="cd_nostr_reachable">Nostr அணுகக்கூடியது</string>
+    <string name="cd_not_supported_battery_optimization">பேட்டரி ஆப்டிமைசேஷன் ஆதரிக்கப்படவில்லை</string>
+    <string name="cd_offline_favorite">ஆஃப்லைன் பிடித்தவை</string>
+    <string name="cd_offline_mesh_chat">ஆஃப்லைன் மெஷ் அரட்டை</string>
+    <string name="cd_online_geohash_channels">ஆன்லைன் ஜியோஹாஷ் சேனல்கள்</string>
+    <string name="cd_open_location_channels">இருப்பிடம் மற்றும் சேனல் அமைப்புகளைத் திற</string>
+    <string name="cd_open_map">வரைபடத்தைத் திற</string>
+    <string name="cd_pause_voice">இடைநிறுத்து</string>
+    <string name="cd_pick_file">கோப்பைத் தேர்ந்தெடு</string>
+    <string name="cd_pick_media">மீடியாவைத் தேர்ந்தெடு</string>
+    <string name="cd_play_voice">இயக்கு</string>
+    <string name="cd_privacy">தனியுரிமை</string>
+    <string name="cd_privacy_protected">தனியுரிமை பாதுகாக்கப்பட்டது</string>
+    <string name="cd_reachable_via_nostr">Nostr வழியாக அணுகக்கூடியது</string>
+    <string name="cd_ready_for_handshake">ஹேண்ட்ஷேக்கிற்கு தயார்</string>
+    <string name="cd_record_voice">குரல் குறிப்பை பதிவு செய்</string>
+    <string name="cd_remove_bookmark">புக்மார்க்கை அகற்று</string>
+    <string name="cd_remove_favorite">பிடித்தவைகளிலிருந்து அகற்று</string>
+    <string name="cd_save_current_image">தற்போதைய படத்தைச் சேமி</string>
+    <string name="cd_scroll_to_bottom">கீழே ஸ்க்ரோல் செய்</string>
+    <string name="cd_select_geohash">ஜியோஹாஷைத் தேர்ந்தெடு</string>
+    <string name="cd_teleport">டெலிபோர்ட்</string>
+    <string name="cd_teleported">டெலிபோர்ட் செய்யப்பட்டது</string>
+    <string name="cd_unread_message">படிக்காத செய்தி</string>
+    <string name="cd_unread_private_messages">படிக்காத தனிப்பட்ட செய்திகள்</string>
+    <string name="cd_warning">எச்சரிக்கை</string>
+    <string name="channel_count_prefix"> · ⧉ </string>
+    <string name="channel_password_hint">கடவுச்சொல்</string>
+    <string name="channels">சேனல்கள்</string>
+    <string name="check_again">மீண்டும் சரிபார்க்கவும்</string>
+    <string name="checking_bluetooth_status">Bluetooth நிலையைச் சரிபார்க்கிறது…</string>
+    <string name="checking_location_services">இருப்பிட சேவைகளைச் சரிபார்க்கிறது…</string>
+    <string name="checking_permissions">அனுமதிகளைச் சரிபார்க்கிறது…</string>
+    <string name="choose_action_message_or_user">இந்த செய்தி அல்லது பயனருக்கான செயலைத் தேர்ந்தெடு</string>
+    <string name="choose_action_user">இந்த பயனருக்கான செயலைத் தேர்ந்தெடு</string>
+    <string msgid="406453423630273620" name="close_drawer">"வழிசெலுத்தல் மெனுவை மூடும்"</string>
+    <string name="close_plain">மூடு</string>
+    <string msgid="7573152094250666567" name="close_sheet">"ஷீட்டை மூடும்"</string>
+    <string name="close_with_emoji">❌ மூடு</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">இயக்கு</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Google Play சேவைகளை இயக்கினால் மட்டுமே, %1$s செயல்படும்.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Google Play சேவைகளை இயக்கவும்</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">நிறுவு</string>
+    <string name="common_google_play_services_install_text">Google Play சேவைகள் இருந்தால் மட்டுமே, %1$s இயங்கும். அவை உங்கள் சாதனத்தில் இல்லை.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Google Play சேவைகளைப் பெறவும்</string>
+    <string name="common_google_play_services_notification_channel_name">கிடைக்கும் Google Play சேவைகள்</string>
+    <string name="common_google_play_services_notification_ticker">Google Play சேவைகள் பிழை</string>
+    <string name="common_google_play_services_unknown_issue">Google Play சேவைகளில் சிக்கல் ஏற்பட்டதால், %1$s ஆப்ஸை அணுக முடியவில்லை. மீண்டும் முயலவும்.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play சேவைகள் இருந்தால் மட்டுமே %1$s ஆப்ஸ் இயங்கும். ஆனால், உங்கள் சாதனத்தில் அவை ஆதரிக்கப்படவில்லை.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">புதுப்பி</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Google Play சேவைகளை இயக்கினால் மட்டுமே, %1$s செயல்படும்.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Google Play சேவைகளைப் புதுப்பிக்கவும்</string>
+    <string name="common_google_play_services_updating_text">தற்போது புதுப்பிக்கப்படும், Google Play சேவைகள் இருந்தால் மட்டுமே, %1$s செயல்படும்.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play சேவைகளின் புதிய பதிப்பு தேவை. அது விரைவில் தானாகவே புதுப்பிக்கப்படும்.</string>
+    <string name="common_open_on_phone">மொபைலில் திற</string>
+    <string name="common_signin_button_text">உள்நுழைக</string>
+    <string name="common_signin_button_text_long">Google மூலம் உள்நுழைக</string>
+    <string name="continue_btn">தொடரவும்</string>
+    <string name="debug_bluetooth_roles">Bluetooth பாத்திரங்கள்</string>
+    <string name="debug_clear">அழி</string>
+    <string name="debug_connect">இணை</string>
+    <string name="debug_connected_devices">இணைக்கப்பட்ட சாதனங்கள்</string>
+    <string name="debug_connections_fmt">இணைப்புகள்: %1$d / %2$d</string>
+    <string name="debug_debug_console">பிழைதிருத்த கன்சோல்</string>
+    <string name="debug_derived_p_fmt">பெறப்பட்ட P: %1$s • மதிப்பிடப்பட்ட அதிகபட்ச உறுப்புகள்: %2$s</string>
+    <string name="debug_direct_suffix"> • நேரடி</string>
+    <string name="debug_disconnect">துண்டி</string>
+    <string name="debug_gatt_client">GATT கிளையன்ட்</string>
+    <string name="debug_gatt_server">GATT சர்வர்</string>
+    <string name="debug_max_client">அதிகபட்ச கிளையன்ட்</string>
+    <string name="debug_max_gcs_filter_size_fmt">அதிகபட்ச GCS ஃபில்டர் அளவு: %1$d பைட்டுகள் (128–1024)</string>
+    <string name="debug_max_overall">மொத்த அதிகபட்சம்</string>
+    <string name="debug_max_packets_per_sync_fmt">ஒத்திசைவுக்கு அதிகபட்ச பாக்கெட்டுகள்: %1$d</string>
+    <string name="debug_max_server">அதிகபட்ச சர்வர்</string>
+    <string name="debug_none">எதுவுமில்லை</string>
+    <string name="debug_our_device_id_fmt">எங்கள் சாதன ஐடி: %1$s</string>
+    <string name="debug_overall_connections_fmt">இணைப்புகள்: %1$d / %2$d</string>
+    <string name="debug_packet_relay">பாக்கெட் ரிலே</string>
+    <string name="debug_question_mark">?</string>
+    <string name="debug_recent_scan_results">சமீபத்திய ஸ்கேன் முடிவுகள்</string>
+    <string name="debug_relays_window_fmt">கடைசி 10வி: %1$d • 1நி: %2$d • 15நி: %3$d</string>
+    <string name="debug_role_client">கிளையன்டாக (நாங்கள் இணைக்கிறோம்)</string>
+    <string name="debug_role_server">சர்வராக (நாங்கள் ஹோஸ்ட் செய்கிறோம்)</string>
+    <string name="debug_roles_hint">பாத்திரங்களை ஆன்/ஆஃப் செய்து, முடக்கப்படும்போது அனைத்து இணைப்புகளையும் மூடு</string>
+    <string name="debug_rssi_fmt">RSSI: %1$s</string>
+    <string name="debug_since_start_fmt">தொடங்கியதிலிருந்து: %1$d</string>
+    <string name="debug_sync_settings">ஒத்திசைவு அமைப்புகள்</string>
+    <string name="debug_target_fpr_fmt">இலக்கு FPR: %1$.2f%%</string>
+    <string name="debug_tools">பிழைதிருத்த கருவிகள்</string>
+    <string name="debug_tools_desc">கண்டறிதல் மற்றும் கட்டுப்பாட்டிற்கான டெவலப்பர் கருவிகள்</string>
+    <string name="debug_verbose_hint">பியர் சேர்க்கை/வெளியேறுதல், இணைப்பு திசை, பாக்கெட் ரூட்டிங் மற்றும் ரிலேகளை பதிவு செய்கிறது</string>
+    <string name="debug_verbose_logging">விரிவான பதிவு</string>
+    <string msgid="8038256446254964252" name="default_error_message">"தவறான உள்ளீடு"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"பாப்-அப் சாளரம்"</string>
+    <string name="disable_battery_optimization">பேட்டரி ஆப்டிமைசேஷனை முடக்கு</string>
+    <string name="disable_location_services">இருப்பிட சேவைகளை முடக்கு</string>
+    <string name="dismiss">நிராகரி</string>
+    <string name="dot">.</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"கீழ்த்தோன்றல் மெனு"</string>
+    <string name="emergency_clear_hint">அனைத்து தரவையும் அழிக்க மூன்று முறை தட்டவும்</string>
+    <string name="enable_bluetooth">Bluetooth ஐ இயக்கு</string>
+    <string name="enable_location_services">இருப்பிட சேவைகளை இயக்கு</string>
+    <string name="file_unavailable">[கோப்பு கிடைக்கவில்லை]</string>
+    <string name="file_viewer_name">📄 %1$s</string>
+    <string name="file_viewer_open_save">📂 திற / சேமி</string>
+    <string name="file_viewer_size">📏 அளவு: %1$s</string>
+    <string name="file_viewer_title">📎 கோப்பு பெறப்பட்டது</string>
+    <string name="file_viewer_type">🏷️ வகை: %1$s</string>
+    <string name="finding_nearby_channels">அருகிலுள்ள சேனல்களைக் கண்டறிகிறது…</string>
+    <string name="fingerprint_copy">நகலெடு</string>
+    <string name="fingerprint_mark_verified">சரிபார்க்கப்பட்டதாகக் குறி</string>
+    <string name="fingerprint_no_peer">கைரேகைகளைப் பார்க்க ஒரு தனிப்பட்ட உரையாடலைத் திறக்கவும்</string>
+    <string name="fingerprint_not_verified_label">சரிபார்க்கப்படவில்லை</string>
+    <string name="fingerprint_not_verified_message_fmt">பாதுகாப்பான சேனலைப் பயன்படுத்தி இந்த கைரேகைகளை %1$s உடன் ஒப்பிடவும்.</string>
+    <string name="fingerprint_pending">கைகுலுக்கல் நிலுவையில் உள்ளது</string>
+    <string name="fingerprint_start_handshake">கைகுலுக்கலைத் தொடங்கு</string>
+    <string name="fingerprint_status_encrypted">குறியாக்கம் செய்யப்பட்டது</string>
+    <string name="fingerprint_status_failed">கைகுலுக்கல் தோல்வியடைந்தது</string>
+    <string name="fingerprint_status_handshaking">கைகுலுக்கல் நடைபெறுகிறது</string>
+    <string name="fingerprint_status_uninitialized">குறியாக்கம் செய்யப்படவில்லை</string>
+    <string name="fingerprint_status_verified">குறியாக்கம் செய்யப்பட்டு சரிபார்க்கப்பட்டது</string>
+    <string name="fingerprint_their">அவர்களின் கைரேகை</string>
+    <string name="fingerprint_verified_label">சரிபார்க்கப்பட்டது</string>
+    <string name="fingerprint_verified_message">இந்த நபரின் அடையாளத்தை நீங்கள் சரிபார்த்துவிட்டீர்கள்.</string>
+    <string name="fingerprint_yours">உங்கள் கைரேகை</string>
+    <string name="geohash_placeholder">ஜியோஹாஷ்</string>
+    <string name="grant_background_location">பின்னணி இருப்பிடத்தை அனுமதி</string>
+    <string name="grant_location_permission">இருப்பிட அனுமதி வழங்கு</string>
+    <string name="grant_permissions">அனுமதிகளை வழங்கு</string>
+    <string name="hash_symbol">#</string>
+    <string name="image_counter">%1$d / %2$d</string>
+    <string name="image_page_of">படம் %1$d / %2$d</string>
+    <string name="image_save_failed">படத்தைச் சேமிக்க முடியவில்லை</string>
+    <string name="image_saved_to_downloads">படம் பதிவிறக்கங்களில் சேமிக்கப்பட்டது</string>
+    <string name="image_star">image/*</string>
+    <string name="image_unavailable">படம் கிடைக்கவில்லை</string>
+    <string msgid="6827826412747255547" name="in_progress">"செயலிலுள்ளது"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"சில மட்டுமே தேர்ந்தெடுக்கப்பட்டுள்ளன"</string>
+    <string name="initializing_mesh_network">மெஷ் நெட்வொர்க்கைத் தொடங்குகிறது</string>
+    <string name="invalid_geohash">தவறான ஜியோஹாஷ்</string>
+    <string name="join">சேர்</string>
+    <string name="join_channel">சேனலில் சேரவும்</string>
+    <string name="leave_channel">வெளியேறு</string>
+    <string name="loading_location_notes">குறிப்புகளை ஏற்றுகிறது…</string>
+    <string name="location_bluetooth_subtitle">#bluetooth • %1$s</string>
+    <string name="location_channels_desc">ஜியோஹாஷ் சேனல்களைப் பயன்படுத்தி உங்களுக்கு அருகிலுள்ளவர்களுடன் அரட்டையடியுங்கள். ஒரு தோராயமான ஜியோஹாஷ் மட்டுமே பகிரப்படும், துல்லியமான ஜிபிஎஸ் ஒருபோதும் இல்லை. உங்கள் தனியுரிமையைப் பாதுகாக்க இந்த திரையை ஸ்க்ரீன்ஷாட் எடுக்காதீர்கள் அல்லது பகிர வேண்டாம்.</string>
+    <string name="location_channels_title">#இருப்பிட சேனல்கள்</string>
+    <string name="location_explanation">Meshora உங்கள் இருப்பிடத்தை கண்காணிக்காது.\n\nBluetooth ஸ்கேனிங் மற்றும் ஜியோஹாஷ் அரட்டை அம்சத்திற்கு இருப்பிட சேவைகள் தேவை.</string>
+    <string name="location_level_block">பிளாக்</string>
+    <string name="location_level_city">நகரம்</string>
+    <string name="location_level_neighborhood">அக்கம்</string>
+    <string name="location_level_province">மாகாணம்</string>
+    <string name="location_level_region">பிராந்தியம்</string>
+    <string name="location_needs_bullets">• Bluetooth சாதன ஸ்கேனிங்\n• மெஷ் நெட்வொர்க்கில் அருகிலுள்ள பயனர்களைக் கண்டறிதல்\n• ஜியோஹாஷ் அரட்டை அம்சம்\n• கண்காணிப்பு அல்லது இருப்பிட சேகரிப்பு இல்லை</string>
+    <string name="location_needs_for">Meshora க்கு இருப்பிட சேவைகள் தேவைப்படுவது:</string>
+    <string name="location_notes_description">இந்த இருப்பிடத்திற்கு மற்ற பார்வையாளர்கள் காணும்படி குறுகிய நிரந்தர குறிப்புகளைச் சேர்க்கவும்.</string>
+    <string name="location_notes_empty_desc">இந்த இடத்திற்கு முதலில் ஒன்றைச் சேர்க்கவும்.</string>
+    <string name="location_notes_empty_title">இதுவரை குறிப்புகள் இல்லை</string>
+    <string name="location_notes_input_placeholder">இந்த இடத்திற்கான குறிப்பைச் சேர்க்கவும்</string>
+    <string name="location_notes_no_relays_desc">குறிப்புகள் ஜியோ ரிலேகளை நம்பியுள்ளன. இணைப்பைச் சரிபார்த்து மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="location_notes_no_relays_title">அருகில் ஜியோ ரிலேகள் இல்லை</string>
+    <string name="location_notes_relays_unavailable">ஜியோ ரிலேகள் கிடைக்கவில்லை; குறிப்புகள் இடைநிறுத்தப்பட்டன</string>
+    <string name="location_permission_denied">இருப்பிட அனுமதி மறுக்கப்பட்டது. இருப்பிட சேனல்களைப் பயன்படுத்த அமைப்புகளில் இயக்கவும்.</string>
+    <string name="location_permission_granted">✓ இருப்பிட அனுமதி வழங்கப்பட்டது</string>
+    <string name="location_services_required">இருப்பிட சேவைகள் தேவை</string>
+    <string name="location_services_unavailable">இருப்பிட சேவைகள் கிடைக்கவில்லை</string>
+    <string name="location_tracking_warning">Meshora உங்கள் இருப்பிடத்தை கண்காணிக்காது</string>
+    <string name="location_unavailable_explanation">இந்த சாதனத்தில் இருப்பிட சேவைகள் கிடைக்கவில்லை. Android சாதனங்களில் இருப்பிட சேவைகள் இயல்பாக இருப்பதால் இது அசாதாரணமானது.\n\nBluetooth ஸ்கேனிங் சரியாக செயல்பட Meshora க்கு இருப்பிட சேவைகள் தேவை (Android தேவை). இது இல்லாமல், அருகிலுள்ள பயனர்களை ஆப் கண்டறிய முடியாது.</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"கீழ்ப்புற ஷீட்டைச் சுருக்கும்"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"கீழ்ப்புற ஷீட்டை நிராகரிக்கும்"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"இழுப்பதற்கான ஹேண்டில்"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"கீழ்ப்புற ஷீட்டை விரிவாக்கும்"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"கீழ்ப்புற ஷீட்"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"உள்ளிட்ட தேதி"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"உள்ளிட்ட தேதி: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"எதிர்பார்க்கப்படும் பேட்டர்னுடன் தேதி பொருந்தவில்லை: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"இந்தத் தேதி அனுமதிக்கப்படவில்லை: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"இந்தத் தேதி %1$s - %2$s ஆண்டு வரம்பிற்குள் இல்லை"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"தேதி"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"ஏதுமில்லை"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"தேதியைத் தேர்வுசெய்க"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"தேர்ந்தெடுக்கப்பட்ட தேதி"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"தற்போதைய தேர்வு: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"%1$sக்குச் செல்லும்"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"ஏதுமில்லை"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"முந்தைய ஆண்டுகளைப் பார்க்க ஸ்க்ரோல் செய்யுங்கள்"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"பிந்தைய ஆண்டுகளைப் பார்க்க ஸ்க்ரோல் செய்யுங்கள்"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"கேலெண்டர் உள்ளீட்டு முறைக்கு மாற்று"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"ஆண்டைத் தேர்வுசெய்ய ஸ்வைப் செய்யுங்கள் அல்லது தேதியைத் தேர்வுசெய்யும் பக்கத்திற்கு மீண்டும் செல்ல தட்டுங்கள்"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"எழுத்து உள்ளீட்டு முறைக்கு மாற்று"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"அடுத்த மாதத்திற்கு மாற்று"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"முந்தைய மாதத்திற்கு மாற்று"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"ஆண்டைத் தேர்ந்தெடுக்கும் விருப்பத்திற்கு மாற்று"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"தேதியைத் தேர்வுசெய்க"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"இன்று"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"ஆண்டைத் தேர்வுசெய்யும் விருப்பம் காட்டப்படுகிறது"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"தவறான தேதி வரம்பை உள்ளிட்டுள்ளீர்கள்"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"தேதிகளை உள்ளிடுங்கள்"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"வரம்பிற்குள் உள்ளது"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"முடிவுத் தேதி"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"அடுத்த மாதத்தைப் பார்க்க ஸ்க்ரோல் செய்யுங்கள்"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"முந்தைய மாதத்தைப் பார்க்க ஸ்க்ரோல் செய்யுங்கள்"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"தொடக்கத் தேதி"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"தேதிகளைத் தேர்ந்தெடுங்கள்"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"உரையாடல்"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"சுருக்கப்பட்டது"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"விரிவாக்கப்பட்டது"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"கீழ்த்தோன்றல் மெனுவை நிலைமாற்றும்"</string>
+    <string msgid="6072492480528318635" name="m3c_floating_toolbar_collapse">"கருவிப்பட்டியைச் சுருக்கும்"</string>
+    <string msgid="6880757017246780255" name="m3c_floating_toolbar_expand">"கருவிப்பட்டியை விரிவாக்கும்"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"தேடல்"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"நிராகரிக்கும்"</string>
+    <string msgid="3868801555855510515" name="m3c_snackbar_pane_title">"விழிப்பூட்டல்"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"பரிந்துரைகள் கீழே கிடைக்கும்"</string>
+    <string msgid="409352516511718051" name="m3c_time_input_dialog_title">"நேரத்தை டைப் செய்யுங்கள்"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="7412665527536641863" name="m3c_time_picker_dialog_title">"நேரத்தைத் தேர்ந்தெடுங்கள்"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"மணிநேரம்"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d மணி"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"மணிநேரத்தைத் தேர்ந்தெடுக்கலாம்"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d மணி"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"மணிநேரத்திற்கு"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"நிமிடம்"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"நிமிடங்களைத் தேர்ந்தெடுக்கலாம்"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d நிமிடங்கள்"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"நிமிடங்களுக்கு"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"AM/PM என்பதைத் தேர்ந்தெடுக்கலாம்"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="4145073906612931838" name="m3c_time_picker_toggle_keyboard">"நேர உள்ளீட்டிற்காக, எழுத்து உள்ளீட்டு முறைக்கு மாற்றும்"</string>
+    <string msgid="8841786098195101324" name="m3c_time_picker_toggle_touch">"நேர உள்ளீட்டிற்காக, கடிகாரப் பயன்முறைக்கு மாற்றும்"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"உதவிக்குறிப்பைக் காட்டு"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"உதவிக்குறிப்பு"</string>
+    <string msgid="6564222473543418073" name="m3c_wide_navigation_rail_close_rail">"பாதையை மூடும்"</string>
+    <string msgid="8350283435461615411" name="m3c_wide_navigation_rail_pane_title">"வழிசெலுத்தல் பாதை"</string>
+    <string name="media_type_file">கோப்பு</string>
+    <string name="media_type_image">படம்</string>
+    <string name="mention">குறிப்பிடு</string>
+    <string name="mention_suggestion_at">@%1$s</string>
+    <string name="mesh_label">மெஷ்</string>
+    <string name="mesh_service_channel_desc">Bluetooth மெஷை பின்னணியில் இயங்க வைக்கிறது</string>
+    <string name="mesh_service_channel_name">மெஷ் பின்னணி சேவை</string>
+    <string name="mesh_service_notification_content">மெஷ் இயங்குகிறது — %1$d பியர்ஸ்</string>
+    <string name="message_hint">செய்தியை உள்ளிடவும்…</string>
+    <string msgid="542007171693138492" name="navigation_menu">"வழிசெலுத்தல் மெனு"</string>
+    <string name="nickname_hint">புனைப்பெயர்</string>
+    <string name="no_one_connected">யாரும் இணைக்கப்படவில்லை</string>
+    <string name="nobody_around">யாரும் அருகில் இல்லை…</string>
+    <string msgid="6610465462668679431" name="not_selected">"தேர்ந்தெடுக்கப்படவில்லை"</string>
+    <string name="notification_action_quit_Meshora">Meshora ஐ வெளியேறு</string>
+    <string name="notification_active_peers_many">%1$d நபர்கள் அருகில் உள்ளனர்</string>
+    <string name="notification_active_peers_one">1 நபர் அருகில் உள்ளார்</string>
+    <string name="notification_active_peers_title">👥 அருகில் Meshora users!</string>
+    <string name="notification_file_doc">📄</string>
+    <string name="notification_file_generic">📎</string>
+    <string name="notification_file_pdf">📄</string>
+    <string name="notification_file_ppt">📈</string>
+    <string name="notification_file_xls">📊</string>
+    <string name="notification_file_zip">🗜️</string>
+    <string name="notification_geohash_summary_text">%2$d இருப்பிடங்களிலிருந்து %1$d செய்திகள்</string>
+    <string name="notification_geohash_summary_title">Meshora - இருப்பிட அரட்டைகள்</string>
+    <string name="notification_geohash_summary_title_mentions">Meshora - %1$d குறிப்புகள்</string>
+    <string name="notification_joined_conversation">%1$s உரையாடலில் சேர்ந்தார்</string>
+    <string name="notification_mentions_in">%1$s இல் குறிப்பிடப்பட்டது</string>
+    <string name="notification_mentions_in_more">%1$s இல் குறிப்பிடப்பட்டது (+%2$d மேலும்)</string>
+    <string name="notification_mentions_in_plural">%2$s இல் %1$d குறிப்புகள்</string>
+    <string name="notification_mesh_mention_title_plural">மெஷ் அரட்டையில் %1$d குறிப்புகள்</string>
+    <string name="notification_mesh_mention_title_singular">மெஷ் அரட்டையில் குறிப்பிடப்பட்டது</string>
+    <string name="notification_messages_from_people">%2$d நபர்களிடமிருந்து %1$d செய்திகள்</string>
+    <string name="notification_messages_in">%1$s இல் செய்திகள்</string>
+    <string name="notification_more_conversations">மற்றும் %1$d மேலும் உரையாடல்கள்</string>
+    <string name="notification_more_locations">மற்றும் %1$d மேலும் இருப்பிடங்கள்</string>
+    <string name="notification_new_activity_in">%1$s இல் புதிய செயல்பாடு</string>
+    <string name="notification_new_location_messages">புதிய இருப்பிட செய்திகள்</string>
+    <string name="notification_new_messages">புதிய செய்திகள்</string>
+    <string name="notification_sent_file">📎 ஒரு கோப்பை அனுப்பியது</string>
+    <string name="notification_sent_image">📷 ஒரு படத்தை அனுப்பியது</string>
+    <string name="notification_sent_voice">🎤 ஒரு குரல் செய்தியை அனுப்பியது</string>
+    <string name="notification_summary_more">மற்றும் %1$d மேலும்</string>
+    <string name="online_users">ஆன்லைன் பயனர்கள்</string>
+    <string name="open_location_settings">இருப்பிட அமைப்புகளைத் திற</string>
+    <string name="open_settings">அமைப்புகளைத் திற</string>
+    <string name="pan_zoom_instruction">ஜியோஹாஷைத் தேர்ந்தெடுக்க பான் செய்து ஜூம் செய்யவும்</string>
+    <string name="people">நபர்கள்</string>
+    <string name="perm_background_location_desc">ஆப் பின்னணியில் இருக்கும்போது அருகிலுள்ள சாதனங்களை ஸ்கேன் செய்ய பரிந்துரைக்கப்படுகிறது</string>
+    <string name="perm_background_location_system">பின்னணி இருப்பிட அணுகலை அனுமதிக்கவும்</string>
+    <string name="perm_battery_desc">Meshora பின்னணியில் நம்பகமாக இயங்கவும் மெஷ் நெட்வொர்க் இணைப்புகளைப் பராமரிக்கவும் பேட்டரி ஆப்டிமைசேஷனை முடக்கவும்</string>
+    <string name="perm_battery_system">பேட்டரி கட்டுப்பாடுகள் இல்லாமல் இயங்க Meshora ஐ அனுமதிக்கவும்</string>
+    <string name="perm_location_desc">Bluetooth வழியாக அருகிலுள்ள Meshora பயனர்களைக் கண்டறிய Android இதை கட்டாயப்படுத்துகிறது</string>
+    <string name="perm_location_system">அருகிலுள்ள சாதனங்களை ஸ்கேன் செய்ய Meshora க்கு இது தேவை</string>
+    <string name="perm_nearby_devices_desc">Bluetooth வழியாக Meshora பயனர்களைக் கண்டறிய தேவை</string>
+    <string name="perm_nearby_devices_system">அருகிலுள்ள சாதனங்களுடன் இணைக்க Meshora ஐ அனுமதிக்கவும்</string>
+    <string name="perm_notifications_desc">நீங்கள் தனிப்பட்ட செய்திகளைப் பெறும்போது அறிவிப்புகளைப் பெறுங்கள்</string>
+    <string name="perm_notifications_system">உங்களுக்கு அறிவிப்புகளை அனுப்ப Meshora ஐ அனுமதிக்கவும்</string>
+    <string name="perm_type_background_location">பின்னணி இருப்பிடம்</string>
+    <string name="perm_type_battery_optimization">பேட்டரி ஆப்டிமைசேஷன்</string>
+    <string name="perm_type_microphone">மைக்ரோஃபோன்</string>
+    <string name="perm_type_nearby_devices">அருகிலுள்ள சாதனங்கள்</string>
+    <string name="perm_type_notifications">அறிவிப்புகள்</string>
+    <string name="perm_type_other">மற்றவை</string>
+    <string name="perm_type_precise_location">துல்லியமான இருப்பிடம்</string>
+    <string name="permission_bluetooth_rationale">இணையம் இல்லாமல் பியர்-டு-பியர் செய்திகள் அனுப்ப Bluetooth அனுமதி தேவை.</string>
+    <string name="permission_location_rationale">Bluetooth வழியாக அருகிலுள்ள சாதனங்களைக் கண்டறிய இருப்பிட அனுமதி தேவை.</string>
+    <string name="permission_notification_rationale">புதிய செய்திகளை உங்களுக்குத் தெரிவிக்க அறிவிப்பு அனுமதி தேவை.</string>
+    <string name="permissions_header">அனுமதிகள்</string>
+    <string name="pick_file">கோப்பைத் தேர்ந்தெடு</string>
+    <string name="pick_image">படத்தைத் தேர்ந்தெடு</string>
+    <string name="privacy_bullets">• கண்காணிப்பு அல்லது தரவு சேகரிப்பு இல்லை\n• Bluetooth மெஷ் அரட்டைகள் முழுவதுமாக ஆஃப்லைனில் உள்ளன\n• ஜியோஹாஷ் அரட்டைகள் இணையத்தைப் பயன்படுத்துகின்றன</string>
+    <string name="privacy_first">தனியுரிமை முதலில்</string>
+    <string name="privacy_protected">உங்கள் தனியுரிமை பாதுகாக்கப்படுகிறது</string>
+    <string name="progress_bar_brackets">[%1$s] %2$d%%</string>
+    <string name="progress_empty">░</string>
+    <string name="progress_filled">█</string>
+    <string name="pwd_label">கடவுச்சொல்</string>
+    <string name="pwd_prompt_message">%1$s சேனல் கடவுச்சொல் பாதுகாக்கப்பட்டுள்ளது. சேர கடவுச்சொல்லை உள்ளிடவும்.</string>
+    <string name="pwd_prompt_title">சேனல் கடவுச்சொல்லை உள்ளிடவும்</string>
+    <string msgid="5941395253238309765" name="range_end">"வரம்பு முடிவு"</string>
+    <string msgid="7097486360902471446" name="range_start">"வரம்பு தொடக்கம்"</string>
+    <string name="retry">மீண்டும் முயற்சி</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"தேடல்"</string>
+    <string name="security_verification_title">பாதுகாப்பு சரிபார்ப்பு</string>
+    <string name="select">தேர்ந்தெடு</string>
+    <string msgid="6043586758067023" name="selected">"தேர்ந்தெடுக்கப்பட்டுள்ளது"</string>
+    <string name="send_message">அனுப்பு</string>
+    <string name="setting_up_bluetooth">Bluetooth மெஷ் நெட்வொர்க்கிங்கை அமைக்கிறது…</string>
+    <string name="setup_not_complete">அமைப்பு முடிக்கப்படவில்லை</string>
+    <string name="should_take_seconds">இதற்கு சில வினாடிகள் மட்டுமே ஆகும்</string>
+    <string name="show_commands">கட்டளைகளைக் காட்டு</string>
+    <string name="skip">Skip</string>
+    <string name="skip_background_location">பின்னணி இருப்பிடம் இல்லாமல் தொடரவும்</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"விழிப்பூட்டல்"</string>
+    <string msgid="4139871816613051306" name="state_empty">"காலியாக உள்ளது"</string>
+    <string msgid="5834637030682409883" name="state_off">"ஆஃப்"</string>
+    <string msgid="1490883874751719580" name="state_on">"ஆன்"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="2561197295334830845" name="switch_role">"மாற்றுதல்"</string>
+    <string msgid="1672349317127674378" name="tab">"பிரிவு"</string>
+    <string name="teleport">டெலிபோர்ட்</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> சதவீதம்."</string>
+    <string name="toast_failed_to_save_image">படத்தைச் சேமிக்க முடியவில்லை</string>
+    <string name="toast_image_saved">படம் பதிவிறக்கங்களில் சேமிக்கப்பட்டது</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"உதவிக்குறிப்பு"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"உதவிக்குறிப்பைக் காட்டும்"</string>
+    <string name="tor_not_available_in_this_build">இந்த பதிப்பில் Tor கிடைக்கவில்லை</string>
+    <string name="try_again">மீண்டும் முயற்சி</string>
+    <string name="type_a_message_placeholder">செய்தியை உள்ளிடவும்…</string>
+    <string name="underscore">_</string>
+    <string name="unknown">தெரியாதது</string>
+    <string name="verify_camera_permission">QR குறியீடுகளை ஸ்கேன் செய்ய கேமரா அனுமதி தேவை</string>
+    <string name="verify_mutual_match_body">நீங்களும் %1$s உம் ஒருவரையொருவர் சரிபார்த்துக்கொண்டீர்கள்</string>
+    <string name="verify_mutual_match_title">பரஸ்பர சரிபார்ப்பு</string>
+    <string name="verify_mutual_system_message">%1$s உடன் பரஸ்பர சரிபார்ப்பு</string>
+    <string name="verify_my_qr_title">என்னை சரிபார்க்க ஸ்கேன் செய்யவும்</string>
+    <string name="verify_paste_label">சரிபார்ப்பு இணைப்பை ஒட்டவும்</string>
+    <string name="verify_qr_unavailable">QR குறியீடு கிடைக்கவில்லை</string>
+    <string name="verify_remove">சரிபார்ப்பை அகற்று</string>
+    <string name="verify_request_camera">கேமராவை இயக்கு</string>
+    <string name="verify_scan_prompt_friend">மற்றவரின் QR குறியீட்டை ஸ்கேன் செய்யவும்</string>
+    <string name="verify_scan_someone">மற்றவரின் QR குறியீட்டை ஸ்கேன் செய்யவும்</string>
+    <string name="verify_scanned">சரிபார்ப்பு கோரப்பட்டது</string>
+    <string name="verify_show_my_qr">எனது QR குறியீட்டைக் காட்டு</string>
+    <string name="verify_success_body">நீங்கள் %1$s ஐ சரிபார்த்துவிட்டீர்கள்</string>
+    <string name="verify_success_system_message">%1$s சரிபார்க்கப்பட்டது</string>
+    <string name="verify_success_title">சரிபார்க்கப்பட்டது</string>
+    <string name="verify_title">சரிபார்</string>
+    <string name="verify_validate">சரிபார்</string>
+    <string name="version_prefix">v%1$s</string>
+    <string name="warning_emoji">⚠️</string>
+    <string name="you_suffix"> (நீங்கள்)</string>
+    <string name="your_network">நெட்வொர்க்</string>
+</resources>

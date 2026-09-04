@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_launcher_monochrome.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_launcher_monochrome.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/font_geist_mono_bold.ttf.flat",
+        "source": "com.bitchat.android.app-main-68:/font/geist_mono_bold.ttf"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_command.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_command.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/raw_geist_mono_ofl.txt.flat",
+        "source": "com.bitchat.android.app-main-68:/raw/geist_mono_ofl.txt"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_bluetooth.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_bluetooth.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_bookmark_filled.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_bookmark_filled.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_globe.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_globe.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_sync.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_sync.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_waveform.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_waveform.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_wifi_off.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_wifi_off.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/xml_locales_config.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/xml/locales_config.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_warning.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_warning.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_star.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_star.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_chat_bubbles.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_chat_bubbles.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_lock_open.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_lock_open.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_launcher.png.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/font_geist_mono_semibold.ttf.flat",
+        "source": "com.bitchat.android.app-main-68:/font/geist_mono_semibold.ttf"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_lock.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_lock.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_on_location_person.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_on_location_person.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_check.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_check.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/xml_backup_rules.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_people.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_people.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_splash_logo.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_splash_logo.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/font_geist_mono_medium.ttf.flat",
+        "source": "com.bitchat.android.app-main-68:/font/geist_mono_medium.ttf"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_teleport.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_teleport.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/font_geist_mono_regular.ttf.flat",
+        "source": "com.bitchat.android.app-main-68:/font/geist_mono_regular.ttf"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_person.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_person.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_panic.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_panic.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_routed.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_routed.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_mention.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_mention.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_bookmark_outline.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_bookmark_outline.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/xml_file_paths.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_shuffle.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_shuffle.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_wifi.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_wifi.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_star_filled.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_star_filled.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_range.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_range.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_eye_off.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_eye_off.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_close.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_close.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/xml_data_extraction_rules.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_spec_envelope.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_spec_envelope.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/drawable_ic_notification.xml.flat",
+        "source": "com.bitchat.android.app-main-68:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.bitchat.android.app-debug-66:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.bitchat.android.app-main-68:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    }
+]

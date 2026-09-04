@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="location_notes_title">
+    <item quantity="other">#%1$s ± 1 • %2$d nota</item>
+  </plurals>
+    <plurals name="notification_and_more">
+    <item quantity="other">dan %d lagi</item>
+  </plurals>
+    <plurals name="people_count">
+    <item quantity="other">%d orang</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navigasi laman utama"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navigasi ke atas"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Lagi pilihan"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Selesai"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Lihat semua"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Pilih apl"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"MATI"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"HIDUP"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fungsi+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"ruang"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Cari…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Kosongkan pertanyaan"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Pertanyaan carian"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Cari"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Serah pertanyaan"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Carian suara"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Kongsi dengan"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Kongsi dengan <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Runtuhkan"</string>
+    <string name="about_app_language">Bahasa aplikasi</string>
+    <string name="about_background_desc">kekalkan mesh aktif apabila apl ditutup (perkhidmatan latar depan)</string>
+    <string name="about_background_title">jalankan di latar belakang</string>
+    <string name="about_dark">gelap</string>
+    <string name="about_debug_settings">Tetapan Nyahpepijat</string>
+    <string name="about_e2e_desc">Mesej peribadi disulitkan. Mesej saluran adalah awam.</string>
+    <string name="about_e2e_title">Penyulitan Hujung-ke-Hujung</string>
+    <string name="about_emergency_title">Pemadaman Data Kecemasan</string>
+    <string name="about_footer">Sumber Terbuka • Privasi Diutamakan • Terdesentralisasi</string>
+    <string name="about_language">Bahasa</string>
+    <string name="about_last">Terakhir: %1$s</string>
+    <string name="about_light">cerah</string>
+    <string name="about_network">rangkaian</string>
+    <string name="about_offline_mesh_desc">Berkomunikasi terus melalui Bluetooth LE tanpa internet atau pelayan. Mesej digeganti melalui peranti berdekatan untuk melanjutkan jarak.</string>
+    <string name="about_offline_mesh_title">Sembang Mesh Luar Talian</string>
+    <string name="about_online_geohash_desc">Berhubung dengan orang di kawasan anda menggunakan saluran berasaskan geohash. Melanjutkan mesh menggunakan geganti internet awam.</string>
+    <string name="about_online_geohash_title">Saluran Geohash Dalam Talian</string>
+    <string name="about_pow">bukti kerja</string>
+    <string name="about_pow_desc_extreme">melampau - pengiraan besar diperlukan</string>
+    <string name="about_pow_desc_high">tinggi - perlindungan spam yang kuat</string>
+    <string name="about_pow_desc_low">rendah - perlindungan spam asas</string>
+    <string name="about_pow_desc_medium">sederhana - perlindungan spam yang baik</string>
+    <string name="about_pow_desc_none">tiada bukti kerja diperlukan</string>
+    <string name="about_pow_desc_very_high">sangat tinggi - mungkin menyebabkan kelewatan</string>
+    <string name="about_pow_desc_very_low">sangat rendah - perlindungan spam minimum</string>
+    <string name="about_pow_difficulty">tahap kesukaran: %1$d bit (~%2$s)</string>
+    <string name="about_pow_difficulty_attempts">kesukaran %1$d memerlukan ~%2$s percubaan hash</string>
+    <string name="about_pow_off">pow dimatikan</string>
+    <string name="about_pow_on">pow dihidupkan</string>
+    <string name="about_pow_tip">tambah bukti kerja pada mesej geohash untuk mengelakkan spam.</string>
+    <string name="about_select_language">Pilih bahasa</string>
+    <string name="about_system">sistem</string>
+    <string name="about_system_default">Lalai sistem</string>
+    <string name="about_tagline">pemesejan mesh terdesentralisasi dengan penyulitan hujung-ke-hujung</string>
+    <string name="about_tor_off">tor dimatikan</string>
+    <string name="about_tor_on">tor dihidupkan</string>
+    <string name="about_tor_route">laluan internet melalui tor untuk privasi yang lebih baik.</string>
+    <string name="about_tor_status">Status tor: %1$s, but-mula %2$d%%</string>
+    <string name="action_block_subtitle">sekat semua mesej daripada pengguna ini</string>
+    <string name="action_block_title">sekat %1$s</string>
+    <string name="action_copy_message_subtitle">salin mesej ini ke papan keratan</string>
+    <string name="action_copy_message_title">salin mesej</string>
+    <string name="action_hug_subtitle">hantar mesej pelukan mesra</string>
+    <string name="action_hug_title">peluk %1$s</string>
+    <string name="action_private_message_subtitle">hantar mesej peribadi</string>
+    <string name="action_private_message_title">mesej %1$s</string>
+    <string name="action_slap_subtitle">hantar mesej tamparan bergurau</string>
+    <string name="action_slap_title">tampar %1$s</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"Autolengkap"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"Autolengkap"</string>
+    <string name="app_name">Meshora</string>
+    <string name="at_nickname">@%1$s</string>
+    <string name="at_symbol">@</string>
+    <string name="back">Kembali</string>
+    <string name="background_location_explanation">Android mengesyorkan lokasi latar belakang supaya Meshora boleh mengimbas peranti berdekatan semasa apl tidak dibuka. Ini mengekalkan mesh aktif selepas but semula.</string>
+    <string name="background_location_needs_bullets">- mengimbas peranti berdekatan semasa apl ditutup\n- menyambung semula selepas but semula\n- mengekalkan mesh berjalan di latar belakang</string>
+    <string name="background_location_needs_for">Meshora menggunakan lokasi latar belakang untuk:</string>
+    <string name="background_location_privacy_note">Kami TIDAK PERNAH mengumpul atau menyimpan lokasi anda. Privasi anda selamat.</string>
+    <string name="background_location_required_subtitle">pilihan, meningkatkan kebolehpercayaan mesh</string>
+    <string name="background_location_required_title">Lokasi Latar Belakang Disyorkan</string>
+    <string name="background_location_settings_tip">Apabila tetapan dibuka, pilih "Benarkan sepanjang masa".</string>
+    <string name="battery_benefits_short">• penghantaran mesej yang boleh dipercayai\n• mengekalkan ketersambungan mesh\n• mengelakkan sambungan terputus</string>
+    <string name="battery_optimization_benefits">• Memastikan penghantaran mesej yang boleh dipercayai\n• Mengekalkan ketersambungan rangkaian mesh\n• Membenarkan geganti mesej latar belakang\n• Mengelakkan sambungan terputus</string>
+    <string name="battery_optimization_check_again">Semak Semula</string>
+    <string name="battery_optimization_checking">Menyemak Pengoptimuman Bateri</string>
+    <string name="battery_optimization_continue">Teruskan</string>
+    <string name="battery_optimization_detected">Pengoptimuman Bateri Dikesan</string>
+    <string name="battery_optimization_detected_title">pengoptimuman bateri dikesan</string>
+    <string name="battery_optimization_disable_button">Lumpuhkan Pengoptimuman Bateri</string>
+    <string name="battery_optimization_disabled">Pengoptimuman Bateri Dilumpuhkan</string>
+    <string name="battery_optimization_disabled_title">pengoptimuman bateri dilumpuhkan</string>
+    <string name="battery_optimization_enabled_title">Pengoptimuman Bateri Diaktifkan</string>
+    <string name="battery_optimization_explanation">Meshora berjalan di latar belakang untuk mengekalkan sambungan rangkaian mesh dengan peranti berdekatan. Pengoptimuman bateri boleh mengganggu sambungan ini, menyebabkan mesej lewat atau terlepas.\n\nMelumpuhkan pengoptimuman bateri memastikan pemesejan rakan-ke-rakan yang boleh dipercayai.</string>
+    <string name="battery_optimization_explanation_short">Meshora perlu berjalan di latar belakang untuk mengekalkan sambungan mesh. pengoptimuman bateri boleh mengganggu sambungan ini.</string>
+    <string name="battery_optimization_not_required">Pengoptimuman Bateri Tidak Diperlukan</string>
+    <string name="battery_optimization_not_supported_explanation">Peranti anda tidak memerlukan tetapan pengoptimuman bateri. Meshora akan berjalan seperti biasa.</string>
+    <string name="battery_optimization_not_supported_message">Peranti anda tidak memerlukan tetapan pengoptimuman bateri. Meshora akan berjalan seperti biasa.</string>
+    <string name="battery_optimization_note">Nota: Anda boleh menukar tetapan ini kemudian dalam Tetapan Android > Apl > Meshora > Bateri</string>
+    <string name="battery_optimization_skip">Langkau Buat Masa Ini</string>
+    <string name="battery_optimization_success_message">Meshora boleh berjalan dengan boleh dipercayai di latar belakang</string>
+    <string name="battery_optimization_why_disable">Kenapa lumpuhkan pengoptimuman bateri?</string>
+    <string name="benefits_of_disabling">Faedah Melumpuhkan</string>
+    <string name="bluetooth_needs_bullets">• Mengesan pengguna berdekatan\n• Mewujudkan sambungan rangkaian mesh\n• Menghantar dan menerima mesej\n• Berfungsi tanpa internet atau pelayan</string>
+    <string name="bluetooth_needs_for">Meshora memerlukan Bluetooth untuk:</string>
+    <string name="bluetooth_not_supported">Bluetooth Tidak Disokong</string>
+    <string name="bluetooth_recommended">Bluetooth Disyorkan</string>
+    <string name="bluetooth_required">Bluetooth Diperlukan</string>
+    <string name="bluetooth_unsupported_explanation">Peranti ini tidak menyokong Bluetooth Low Energy (BLE), yang diperlukan untuk Meshora berfungsi.\n\nMeshora memerlukan BLE untuk mewujudkan rangkaian mesh dan berkomunikasi dengan peranti berdekatan tanpa internet.</string>
+    <string name="bookmarked">ditanda buku</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Jawab"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Tolak"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Tamatkan Panggilan"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Panggilan masuk"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Panggilan sedang berlangsung"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Menyaring panggilan masuk"</string>
+    <string name="cancel">Batal</string>
+    <string name="cancel_lower">batal</string>
+    <string name="cd_add_bookmark">Tambah penanda buku</string>
+    <string name="cd_add_favorite">Tambah ke kegemaran</string>
+    <string name="cd_battery_optimization">Pengoptimuman Bateri</string>
+    <string name="cd_benefits">Faedah</string>
+    <string name="cd_bluetooth">Bluetooth</string>
+    <string name="cd_cancel">Batal</string>
+    <string name="cd_checking_battery_optimization">Menyemak Pengoptimuman Bateri</string>
+    <string name="cd_close">Tutup</string>
+    <string name="cd_connected_peers">Rakan disambungkan</string>
+    <string name="cd_decrease_precision">Kurangkan ketepatan</string>
+    <string name="cd_encrypted">Disulitkan hujung-ke-hujung</string>
+    <string name="cd_end_to_end_encryption">Penyulitan Hujung-ke-Hujung</string>
+    <string name="cd_error">Ralat</string>
+    <string name="cd_file">Fail</string>
+    <string name="cd_geohash_participants">Peserta geohash</string>
+    <string name="cd_handshake_failed">Jabat tangan gagal</string>
+    <string name="cd_handshake_in_progress">Jabat tangan sedang berlangsung</string>
+    <string name="cd_image">Imej</string>
+    <string name="cd_image_index_of">Imej %1$d daripada %2$d</string>
+    <string name="cd_increase_precision">Tingkatkan ketepatan</string>
+    <string name="cd_leave_channel">Keluar saluran</string>
+    <string name="cd_link">Pautan</string>
+    <string name="cd_location_notes">Nota lokasi</string>
+    <string name="cd_location_services">Perkhidmatan Lokasi</string>
+    <string name="cd_nostr_reachable">Boleh dihubungi melalui Nostr</string>
+    <string name="cd_not_supported_battery_optimization">Pengoptimuman Bateri Tidak Disokong</string>
+    <string name="cd_offline_favorite">Kegemaran luar talian</string>
+    <string name="cd_offline_mesh_chat">Sembang Mesh Luar Talian</string>
+    <string name="cd_online_geohash_channels">Saluran Geohash Dalam Talian</string>
+    <string name="cd_open_location_channels">Buka tetapan lokasi dan saluran</string>
+    <string name="cd_open_map">Buka peta</string>
+    <string name="cd_pause_voice">Jeda</string>
+    <string name="cd_pick_file">Pilih fail</string>
+    <string name="cd_pick_media">Pilih media</string>
+    <string name="cd_play_voice">Main</string>
+    <string name="cd_privacy">Privasi</string>
+    <string name="cd_privacy_protected">Privasi Dilindungi</string>
+    <string name="cd_reachable_via_nostr">Boleh dihubungi melalui Nostr</string>
+    <string name="cd_ready_for_handshake">Sedia untuk berjabat tangan</string>
+    <string name="cd_record_voice">Rakam nota suara</string>
+    <string name="cd_remove_bookmark">Alih keluar penanda buku</string>
+    <string name="cd_remove_favorite">Alih keluar daripada kegemaran</string>
+    <string name="cd_save_current_image">Simpan imej semasa</string>
+    <string name="cd_scroll_to_bottom">Tatal ke bawah</string>
+    <string name="cd_select_geohash">Pilih geohash</string>
+    <string name="cd_teleport">Teleport</string>
+    <string name="cd_teleported">Diteleport</string>
+    <string name="cd_unread_message">Mesej belum dibaca</string>
+    <string name="cd_unread_private_messages">Mesej peribadi belum dibaca</string>
+    <string name="cd_warning">Amaran</string>
+    <string name="channel_count_prefix"> · ⧉ </string>
+    <string name="channel_password_hint">Kata Laluan</string>
+    <string name="channels">Saluran</string>
+    <string name="check_again">Semak Semula</string>
+    <string name="checking_bluetooth_status">Menyemak status Bluetooth...</string>
+    <string name="checking_location_services">Menyemak perkhidmatan lokasi...</string>
+    <string name="checking_permissions">menyemak kebenaran...</string>
+    <string name="choose_action_message_or_user">pilih tindakan untuk mesej atau pengguna ini</string>
+    <string name="choose_action_user">pilih tindakan untuk pengguna ini</string>
+    <string msgid="406453423630273620" name="close_drawer">"Tutup menu navigasi"</string>
+    <string name="close_plain">Tutup</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Tutup helaian"</string>
+    <string name="close_with_emoji">❌ Tutup</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Dayakan</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s tidak akan berfungsi melainkan anda mendayakan perkhidmatan Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Dayakan perkhidmatan Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Pasang</string>
+    <string name="common_google_play_services_install_text">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada peranti anda.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Dapatkan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Ketersediaan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ralat perkhidmatan Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s menghadapi masalah berhubung perkhidmatan Google Play. Sila cuba lagi.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tidak disokong oleh peranti anda.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Kemas kini</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s tidak akan berfungsi kecuali anda mengemas kini perkhidmatan Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Kemaskinikan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini sedang dikemaskinikan.</string>
+    <string name="common_google_play_services_wear_update_text">Versi baharu perkhidmatan Google Play diperlukan. Kemas kini automatik akan dijalankan sebentar lagi.</string>
+    <string name="common_open_on_phone">Buka pada telefon</string>
+    <string name="common_signin_button_text">Log masuk</string>
+    <string name="common_signin_button_text_long">Log masuk dengan Google</string>
+    <string name="continue_btn">Teruskan</string>
+    <string name="debug_bluetooth_roles">peranan bluetooth</string>
+    <string name="debug_clear">kosongkan</string>
+    <string name="debug_connect">sambung</string>
+    <string name="debug_connected_devices">peranti disambungkan</string>
+    <string name="debug_connections_fmt">sambungan: %1$d / %2$d</string>
+    <string name="debug_debug_console">konsol nyahpepijat</string>
+    <string name="debug_derived_p_fmt">P terbitan: %1$s • anggaran unsur maks: %2$s</string>
+    <string name="debug_direct_suffix"> • terus</string>
+    <string name="debug_disconnect">putuskan sambungan</string>
+    <string name="debug_gatt_client">klien gatt</string>
+    <string name="debug_gatt_server">pelayan gatt</string>
+    <string name="debug_max_client">maksimum klien</string>
+    <string name="debug_max_gcs_filter_size_fmt">saiz penapis GCS maksimum: %1$d bait (128–1024)</string>
+    <string name="debug_max_overall">maksimum keseluruhan</string>
+    <string name="debug_max_packets_per_sync_fmt">maksimum paket setiap penyegerakan: %1$d</string>
+    <string name="debug_max_server">maksimum pelayan</string>
+    <string name="debug_none">tiada</string>
+    <string name="debug_our_device_id_fmt">id peranti kami: %1$s</string>
+    <string name="debug_overall_connections_fmt">sambungan: %1$d / %2$d</string>
+    <string name="debug_packet_relay">geganti paket</string>
+    <string name="debug_question_mark">?</string>
+    <string name="debug_recent_scan_results">keputusan imbasan terkini</string>
+    <string name="debug_relays_window_fmt">10s lepas: %1$d • 1m: %2$d • 15m: %3$d</string>
+    <string name="debug_role_client">sebagai klien (kami sambung)</string>
+    <string name="debug_role_server">sebagai pelayan (kami hos)</string>
+    <string name="debug_roles_hint">hidup/matikan peranan dan tutup semua sambungan apabila dilumpuhkan</string>
+    <string name="debug_rssi_fmt">RSSI: %1$s</string>
+    <string name="debug_since_start_fmt">sejak permulaan: %1$d</string>
+    <string name="debug_sync_settings">tetapan penyegerakan</string>
+    <string name="debug_target_fpr_fmt">FPR sasaran: %1$.2f%%</string>
+    <string name="debug_tools">alat nyahpepijat</string>
+    <string name="debug_tools_desc">utiliti pembangun untuk diagnostik dan kawalan</string>
+    <string name="debug_verbose_hint">merekod penyertaan/pemergian rakan, arah sambungan, penghalaan paket dan geganti</string>
+    <string name="debug_verbose_logging">log terperinci</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Input tidak sah"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Tetingkap Timbul"</string>
+    <string name="disable_battery_optimization">Lumpuhkan Pengoptimuman Bateri</string>
+    <string name="disable_location_services">lumpuhkan perkhidmatan lokasi</string>
+    <string name="dismiss">tolak</string>
+    <string name="dot">.</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Menu lungsur"</string>
+    <string name="emergency_clear_hint">Ketik tiga kali untuk memadam semua data</string>
+    <string name="enable_bluetooth">Aktifkan Bluetooth</string>
+    <string name="enable_location_services">aktifkan perkhidmatan lokasi</string>
+    <string name="file_unavailable">[fail tidak tersedia]</string>
+    <string name="file_viewer_name">📄 %1$s</string>
+    <string name="file_viewer_open_save">📂 Buka / Simpan</string>
+    <string name="file_viewer_size">📏 Saiz: %1$s</string>
+    <string name="file_viewer_title">📎 Fail Diterima</string>
+    <string name="file_viewer_type">🏷️ Jenis: %1$s</string>
+    <string name="finding_nearby_channels">mencari saluran berdekatan…</string>
+    <string name="fingerprint_copy">salin</string>
+    <string name="fingerprint_mark_verified">tanda sebagai disahkan</string>
+    <string name="fingerprint_no_peer">buka sembang peribadi untuk melihat cap jari</string>
+    <string name="fingerprint_not_verified_label">tidak disahkan</string>
+    <string name="fingerprint_not_verified_message_fmt">bandingkan cap jari ini dengan %1$s menggunakan saluran selamat.</string>
+    <string name="fingerprint_pending">jabat tangan tertangguh</string>
+    <string name="fingerprint_start_handshake">mulakan jabat tangan</string>
+    <string name="fingerprint_status_encrypted">disulitkan</string>
+    <string name="fingerprint_status_failed">jabat tangan gagal</string>
+    <string name="fingerprint_status_handshaking">berjabat tangan</string>
+    <string name="fingerprint_status_uninitialized">tidak disulitkan</string>
+    <string name="fingerprint_status_verified">disulitkan &amp; disahkan</string>
+    <string name="fingerprint_their">cap jari mereka</string>
+    <string name="fingerprint_verified_label">disahkan</string>
+    <string name="fingerprint_verified_message">anda telah mengesahkan identiti orang ini.</string>
+    <string name="fingerprint_yours">cap jari anda</string>
+    <string name="geohash_placeholder">geohash</string>
+    <string name="grant_background_location">Benarkan Lokasi Latar Belakang</string>
+    <string name="grant_location_permission">berikan kebenaran lokasi</string>
+    <string name="grant_permissions">Berikan Kebenaran</string>
+    <string name="hash_symbol">#</string>
+    <string name="image_counter">%1$d / %2$d</string>
+    <string name="image_page_of">Imej %1$d daripada %2$d</string>
+    <string name="image_save_failed">Gagal menyimpan imej</string>
+    <string name="image_saved_to_downloads">Imej disimpan ke Muat Turun</string>
+    <string name="image_star">image/*</string>
+    <string name="image_unavailable">Imej tidak tersedia</string>
+    <string msgid="6827826412747255547" name="in_progress">"Dalam proses"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Sebahagiannya ditandai"</string>
+    <string name="initializing_mesh_network">Memulakan rangkaian mesh</string>
+    <string name="invalid_geohash">geohash tidak sah</string>
+    <string name="join">Sertai</string>
+    <string name="join_channel">Sertai Saluran</string>
+    <string name="leave_channel">Keluar</string>
+    <string name="loading_location_notes">memuatkan nota…</string>
+    <string name="location_bluetooth_subtitle">#bluetooth • %1$s</string>
+    <string name="location_channels_desc">berbual dengan orang berdekatan anda menggunakan saluran geohash. hanya geohash kasar dikongsi, tidak sekali-kali gps tepat. jangan ambil tangkapan skrin atau kongsi skrin ini untuk melindungi privasi anda.</string>
+    <string name="location_channels_title">#saluran lokasi</string>
+    <string name="location_explanation">Meshora TIDAK menjejaki lokasi anda.\n\nPerkhidmatan lokasi diperlukan untuk imbasan Bluetooth dan untuk ciri sembang Geohash.</string>
+    <string name="location_level_block">blok</string>
+    <string name="location_level_city">bandar</string>
+    <string name="location_level_neighborhood">kejiranan</string>
+    <string name="location_level_province">wilayah</string>
+    <string name="location_level_region">rantau</string>
+    <string name="location_needs_bullets">• Imbasan peranti Bluetooth\n• Mengesan pengguna berdekatan pada rangkaian mesh\n• Ciri sembang Geohash\n• Tiada penjejakan atau pengumpulan lokasi</string>
+    <string name="location_needs_for">Meshora memerlukan perkhidmatan lokasi untuk:</string>
+    <string name="location_notes_description">tambah nota kekal ringkas pada lokasi ini untuk pelawat lain temui.</string>
+    <string name="location_notes_empty_desc">jadilah yang pertama menambah satu untuk tempat ini.</string>
+    <string name="location_notes_empty_title">belum ada nota</string>
+    <string name="location_notes_input_placeholder">tambah nota untuk tempat ini</string>
+    <string name="location_notes_no_relays_desc">nota bergantung pada geganti geo. semak sambungan dan cuba lagi.</string>
+    <string name="location_notes_no_relays_title">tiada geganti geo berdekatan</string>
+    <string name="location_notes_relays_unavailable">geganti geo tidak tersedia; nota dijeda</string>
+    <string name="location_permission_denied">kebenaran lokasi ditolak. aktifkan dalam tetapan untuk menggunakan saluran lokasi.</string>
+    <string name="location_permission_granted">✓ kebenaran lokasi diberikan</string>
+    <string name="location_services_required">Perkhidmatan Lokasi Diperlukan</string>
+    <string name="location_services_unavailable">Perkhidmatan Lokasi Tidak Tersedia</string>
+    <string name="location_tracking_warning">Meshora TIDAK menjejaki lokasi anda</string>
+    <string name="location_unavailable_explanation">Perkhidmatan lokasi tidak tersedia pada peranti ini. Ini luar biasa kerana perkhidmatan lokasi adalah standard pada peranti Android.\n\nMeshora memerlukan perkhidmatan lokasi untuk imbasan Bluetooth berfungsi dengan betul (keperluan Android). Tanpa ini, apl tidak dapat mengesan pengguna berdekatan.</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Kuncupkan helaian bawah"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Ketepikan helaian bawah"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Pemegang seret"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Kembangkan helaian bawah"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Helaian Bawah"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Tarikh yang dimasukkan"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Tarikh yang dimasukkan: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Tarikh tidak sepadan dengan corak yang dijangkakan: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Tarikh yang tidak dibenarkan: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Tarikh di luar julat tahun yang dijangkakan %1$s - %2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Tarikh"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Tiada"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Pilih tarikh"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Tarikh dipilih"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Pilihan semasa: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Navigasi ke tahun %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Tiada"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Tatal untuk menunjukkan tahun terdahulu"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Tatal untuk menunjukkan tahun kemudian"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Beralih kepada mod input kalendar"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Leret untuk memilih tahun atau ketik untuk bertukar kembali kepada pemilihan hari"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Beralih kepada mod input teks"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Tukar kepada bulan seterusnya"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Tukar kepada bulan sebelumnya"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Beralih kepada pemilihan tahun"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Pilih tarikh"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Hari ini"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Pemilih tahun kelihatan"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Input julat tarikh tidak sah"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Masukkan tarikh"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Dalam liputan"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Tarikh tamat"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Tatal untuk menunjukkan bulan seterusnya"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Tatal untuk menunjukkan bulan sebelumnya"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Tarikh mula"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Pilih tarikh"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Dialog"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Dikuncupkan"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Dikembangkan"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Togol menu lungsur"</string>
+    <string msgid="6072492480528318635" name="m3c_floating_toolbar_collapse">"Kuncupkan bar alat"</string>
+    <string msgid="6880757017246780255" name="m3c_floating_toolbar_expand">"Kembangkan bar alat"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Carian"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Ketepikan"</string>
+    <string msgid="3868801555855510515" name="m3c_snackbar_pane_title">"Makluman"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Cadangan di bawah"</string>
+    <string msgid="409352516511718051" name="m3c_time_input_dialog_title">"Masukkan Masa"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"PG"</string>
+    <string msgid="7412665527536641863" name="m3c_time_picker_dialog_title">"Pilih Masa"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Jam"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d jam"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Pilih jam"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"Pukul %1$d"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"selama # jam"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Minit"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Pilih minit"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d minit"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"selama # minit"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Pilih PG atau PTG/MLM"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"P/M"</string>
+    <string msgid="4145073906612931838" name="m3c_time_picker_toggle_keyboard">"Beralih kepada mod input teks untuk input masa"</string>
+    <string msgid="8841786098195101324" name="m3c_time_picker_toggle_touch">"Beralih kepada mod jam untuk input masa"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Tunjukkan tip alat"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Tip alat"</string>
+    <string msgid="6564222473543418073" name="m3c_wide_navigation_rail_close_rail">"Tutup rel"</string>
+    <string msgid="8350283435461615411" name="m3c_wide_navigation_rail_pane_title">"Rel navigasi"</string>
+    <string name="media_type_file">Fail</string>
+    <string name="media_type_image">Imej</string>
+    <string name="mention">sebutan</string>
+    <string name="mention_suggestion_at">@%1$s</string>
+    <string name="mesh_label">mesh</string>
+    <string name="mesh_service_channel_desc">Mengekalkan mesh Bluetooth berjalan di latar belakang</string>
+    <string name="mesh_service_channel_name">Perkhidmatan Latar Belakang Mesh</string>
+    <string name="mesh_service_notification_content">Mesh sedang berjalan — %1$d rakan</string>
+    <string name="message_hint">taip mesej…</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Menu navigasi"</string>
+    <string name="nickname_hint">nama samaran</string>
+    <string name="no_one_connected">Tiada sesiapa yang disambungkan</string>
+    <string name="nobody_around">tiada sesiapa berdekatan...</string>
+    <string msgid="6610465462668679431" name="not_selected">"Tidak dipilih"</string>
+    <string name="notification_action_quit_Meshora">Keluar Meshora</string>
+    <string name="notification_active_peers_many">%1$d orang berdekatan</string>
+    <string name="notification_active_peers_one">1 orang berdekatan</string>
+    <string name="notification_active_peers_title">👥 Meshora user berdekatan!</string>
+    <string name="notification_file_doc">📄</string>
+    <string name="notification_file_generic">📎</string>
+    <string name="notification_file_pdf">📄</string>
+    <string name="notification_file_ppt">📈</string>
+    <string name="notification_file_xls">📊</string>
+    <string name="notification_file_zip">🗜️</string>
+    <string name="notification_geohash_summary_text">%1$d mesej daripada %2$d lokasi</string>
+    <string name="notification_geohash_summary_title">Meshora - sembang lokasi</string>
+    <string name="notification_geohash_summary_title_mentions">Meshora - %1$d sebutan</string>
+    <string name="notification_joined_conversation">%1$s telah menyertai perbualan</string>
+    <string name="notification_mentions_in">Disebut dalam %1$s</string>
+    <string name="notification_mentions_in_more">Disebut dalam %1$s (+%2$d lagi)</string>
+    <string name="notification_mentions_in_plural">%1$d sebutan dalam %2$s</string>
+    <string name="notification_mesh_mention_title_plural">%1$d sebutan dalam Sembang Mesh</string>
+    <string name="notification_mesh_mention_title_singular">Disebut dalam Sembang Mesh</string>
+    <string name="notification_messages_from_people">%1$d mesej daripada %2$d orang</string>
+    <string name="notification_messages_in">Mesej dalam %1$s</string>
+    <string name="notification_more_conversations">dan %1$d perbualan lagi</string>
+    <string name="notification_more_locations">dan %1$d lokasi lagi</string>
+    <string name="notification_new_activity_in">Aktiviti baharu dalam %1$s</string>
+    <string name="notification_new_location_messages">Mesej Lokasi Baharu</string>
+    <string name="notification_new_messages">Mesej Baharu</string>
+    <string name="notification_sent_file">📎 menghantar fail</string>
+    <string name="notification_sent_image">📷 menghantar imej</string>
+    <string name="notification_sent_voice">🎤 menghantar mesej suara</string>
+    <string name="notification_summary_more">dan %1$d lagi</string>
+    <string name="online_users">Pengguna Dalam Talian</string>
+    <string name="open_location_settings">Buka Tetapan Lokasi</string>
+    <string name="open_settings">Buka Tetapan</string>
+    <string name="pan_zoom_instruction">gerak dan zum untuk memilih geohash</string>
+    <string name="people">Orang</string>
+    <string name="perm_background_location_desc">Disyorkan untuk mengimbas peranti berdekatan semasa apl di latar belakang</string>
+    <string name="perm_background_location_system">Benarkan akses lokasi latar belakang</string>
+    <string name="perm_battery_desc">Lumpuhkan pengoptimuman bateri untuk memastikan Meshora berjalan dengan boleh dipercayai di latar belakang dan mengekalkan sambungan rangkaian mesh</string>
+    <string name="perm_battery_system">Benarkan Meshora berjalan tanpa sekatan bateri</string>
+    <string name="perm_location_desc">Diperlukan oleh Android untuk mengesan pengguna Meshora berdekatan melalui Bluetooth</string>
+    <string name="perm_location_system">Meshora memerlukan ini untuk mengimbas peranti berdekatan</string>
+    <string name="perm_nearby_devices_desc">Diperlukan untuk mengesan pengguna Meshora melalui Bluetooth</string>
+    <string name="perm_nearby_devices_system">Benarkan Meshora menyambung kepada peranti berdekatan</string>
+    <string name="perm_notifications_desc">Terima pemberitahuan apabila anda menerima mesej peribadi</string>
+    <string name="perm_notifications_system">Benarkan Meshora menghantar pemberitahuan kepada anda</string>
+    <string name="perm_type_background_location">Lokasi Latar Belakang</string>
+    <string name="perm_type_battery_optimization">Pengoptimuman Bateri</string>
+    <string name="perm_type_microphone">Mikrofon</string>
+    <string name="perm_type_nearby_devices">Peranti Berdekatan</string>
+    <string name="perm_type_notifications">Pemberitahuan</string>
+    <string name="perm_type_other">Lain-lain</string>
+    <string name="perm_type_precise_location">Lokasi Tepat</string>
+    <string name="permission_bluetooth_rationale">Kebenaran Bluetooth diperlukan untuk pemesejan rakan-ke-rakan tanpa internet.</string>
+    <string name="permission_location_rationale">Kebenaran lokasi diperlukan untuk mengesan peranti berdekatan melalui Bluetooth.</string>
+    <string name="permission_notification_rationale">Kebenaran pemberitahuan diperlukan untuk memaklumkan anda tentang mesej baharu.</string>
+    <string name="permissions_header">kebenaran</string>
+    <string name="pick_file">Pilih fail</string>
+    <string name="pick_image">Pilih imej</string>
+    <string name="privacy_bullets">• tiada penjejakan atau pengumpulan data\n• sembang mesh Bluetooth sepenuhnya luar talian\n• sembang Geohash menggunakan internet</string>
+    <string name="privacy_first">Privasi Diutamakan</string>
+    <string name="privacy_protected">Privasi Anda Dilindungi</string>
+    <string name="progress_bar_brackets">[%1$s] %2$d%%</string>
+    <string name="progress_empty">░</string>
+    <string name="progress_filled">█</string>
+    <string name="pwd_label">Kata Laluan</string>
+    <string name="pwd_prompt_message">Saluran %1$s dilindungi kata laluan. Masukkan kata laluan untuk menyertai.</string>
+    <string name="pwd_prompt_title">Masukkan Kata Laluan Saluran</string>
+    <string msgid="5941395253238309765" name="range_end">"Penghujung julat"</string>
+    <string msgid="7097486360902471446" name="range_start">"Permulaan julat"</string>
+    <string name="retry">Cuba Lagi</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Cari"</string>
+    <string name="security_verification_title">pengesahan keselamatan</string>
+    <string name="select">pilih</string>
+    <string msgid="6043586758067023" name="selected">"Dipilih"</string>
+    <string name="send_message">Hantar</string>
+    <string name="setting_up_bluetooth">Menyediakan rangkaian mesh Bluetooth...</string>
+    <string name="setup_not_complete">Persediaan Tidak Lengkap</string>
+    <string name="should_take_seconds">Ini sepatutnya hanya mengambil masa beberapa saat</string>
+    <string name="show_commands">Tunjukkan arahan</string>
+    <string name="skip">Skip</string>
+    <string name="skip_background_location">Teruskan tanpa lokasi latar belakang</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"Makluman"</string>
+    <string msgid="4139871816613051306" name="state_empty">"Kosong"</string>
+    <string msgid="5834637030682409883" name="state_off">"Mati"</string>
+    <string msgid="1490883874751719580" name="state_on">"Hidup"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Tukar"</string>
+    <string msgid="1672349317127674378" name="tab">"Tab"</string>
+    <string name="teleport">teleport</string>
+    <string msgid="5946805113151406391" name="template_percent">"Peratus <ns1:g id="PERCENTAGE">%1$d</ns1:g>."</string>
+    <string name="toast_failed_to_save_image">Gagal menyimpan imej</string>
+    <string name="toast_image_saved">Imej disimpan ke Muat Turun</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"tip alat"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"tunjukkan tip alat"</string>
+    <string name="tor_not_available_in_this_build">Tor tidak tersedia dalam binaan ini</string>
+    <string name="try_again">Cuba Lagi</string>
+    <string name="type_a_message_placeholder">taip mesej...</string>
+    <string name="underscore">_</string>
+    <string name="unknown">tidak diketahui</string>
+    <string name="verify_camera_permission">kebenaran kamera diperlukan untuk mengimbas kod qr</string>
+    <string name="verify_mutual_match_body">Anda dan %1$s telah saling mengesahkan</string>
+    <string name="verify_mutual_match_title">Pengesahan bersama</string>
+    <string name="verify_mutual_system_message">pengesahan bersama dengan %1$s</string>
+    <string name="verify_my_qr_title">imbas untuk sahkan saya</string>
+    <string name="verify_paste_label">tampal pautan pengesahan</string>
+    <string name="verify_qr_unavailable">kod qr tidak tersedia</string>
+    <string name="verify_remove">alih keluar pengesahan</string>
+    <string name="verify_request_camera">dayakan kamera</string>
+    <string name="verify_scan_prompt_friend">imbas kod qr orang lain</string>
+    <string name="verify_scan_someone">imbas kod qr orang lain</string>
+    <string name="verify_scanned">pengesahan diminta</string>
+    <string name="verify_show_my_qr">tunjukkan kod qr saya</string>
+    <string name="verify_success_body">Anda telah mengesahkan %1$s</string>
+    <string name="verify_success_system_message">telah mengesahkan %1$s</string>
+    <string name="verify_success_title">Disahkan</string>
+    <string name="verify_title">sahkan</string>
+    <string name="verify_validate">sahkan</string>
+    <string name="version_prefix">v%1$s</string>
+    <string name="warning_emoji">⚠️</string>
+    <string name="you_suffix"> (anda)</string>
+    <string name="your_network">Rangkaian</string>
+</resources>
