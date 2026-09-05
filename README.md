@@ -10,7 +10,7 @@ A decentralized peer-to-peer messaging app with dual transport architecture: loc
 
 This is the Android implementation of bitchat, but we just made it kind of easy to use for beginners and the users who are not friendly with the black UI. We made the bitchat app kind of different because the old version of bitchat's UI was kind of complicated for non-tech users so we made it just like another chatting app for non-tech users to make it easy to use for everyone. The technology is the same but the UI and username changing feature and a few things are just kind of different. Hope you guys will like the modern UI.
 
-[bitchat.free](http://bitchat.free)
+
 
 [GitHub Releases](https://github.com/permissionlesstech/bitchat-android/releases)
 
